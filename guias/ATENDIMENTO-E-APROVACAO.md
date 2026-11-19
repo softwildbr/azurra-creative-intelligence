@@ -20,4 +20,18 @@ Diga **o que está disponível**, **qual é a versão certa**, **que decisão fa
 
 Uma revisão útil informa em qual quadro ou região está o problema e qual parte precisa permanecer. Se a referência atual mudou, confirme a troca antes de replicar. Não conte cada comentário ou desdobramento como uma nova aprovação, nem extraia uma taxa de sucesso sem definir unidade, contexto e cobertura da amostra.
 
+## Escrever e conferir a mensagem
+
+Comece pelo resultado ou pela decisão que falta. Reconheça uma contribuição só quando puder apontar o que ela ajudou a resolver. Preserve o texto ditado quando a pessoa pediu redação literal; uma aprovação de rascunho não autoriza mudar canal, destinatário ou conteúdo. Se o projeto tiver limite de caracteres, avise quando a informação essencial não couber; não fragmente mensagens só para contornar o limite.
+
+| Situação | Exemplo fictício |
+|---|---|
+| Falta a fonte editável | “Conferi os anexos e ainda não encontrei o arquivo editável do layout. Você consegue anexar o PSD ou mandar o link do Figma?” |
+| Há mais de um master | “O briefing lista duas versões. Qual delas vale? E os formatos já foram adaptados ou essa etapa entra antes da animação?” |
+| Revisão de lote | “Numerei as peças para facilitar. Se precisar de ajuste, me diz o número e o ponto. Com o aceite desse lote, sigo para a próxima etapa.” |
+| Feedback útil | “A observação sobre a leitura ajudou a ajustar o contraste. Segue a versão revisada.” |
+| Prazo | “A previsão é [prazo confirmado]. Falta adaptar os formatos e conferir as exportações. Se a dependência mudar, aviso antes.” |
+
+Antes de enviar, abra os anexos finais e confira a versão, o destino e as menções. Depois, confirme se a mensagem e os arquivos apareceram. Se o envio foi parcial, retome só o que faltou. Não confunda remoção de uma página com exclusão de domínio ou dos arquivos de origem: verifique a URL pedida e descreva o que de fato fez.
+
 [Início](../README.md) · [Modelo de revisão](../modelos/REVISAO.md)

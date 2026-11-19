@@ -20,6 +20,10 @@ O briefing vigente, a identidade oficial e a especificação do canal prevalecem
 | Revisar e aprovar | [Checklist de aprovação](checklists/PRONTO-PARA-APROVAR.md) · [Testes de revisão](checklists/TESTES-DE-REVISAO.md) · [Atendimento e aprovação](guias/ATENDIMENTO-E-APROVACAO.md) |
 | Entregar e aprender | [Ficha de entrega](modelos/ENTREGA.md) · [Criação e mídia](guias/CRIACAO-E-MIDIA.md) · [Casos fictícios](exemplos/CASOS-FICTICIOS.md) · [Estudos aplicados](guias/ESTUDOS-APLICADOS.md) |
 
+## Preservar decisões
+
+Use o [guia de memória de produção](guias/MEMORIA-DE-PRODUCAO.md) para separar o que aconteceu, o que foi decidido e onde a equipe pode conferir a fonte. A decisão deve continuar compreensível mesmo que o link de referência deixe de abrir.
+
 ## Colabore
 
 Em [CONTRIBUTING.md](CONTRIBUTING.md), veja como abrir uma discussão sobre um problema, propor uma melhoria ou enviar uma revisão. Não inclua arquivos ou informações de cliente, mesmo para ilustrar uma sugestão.

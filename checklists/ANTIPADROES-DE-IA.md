@@ -14,4 +14,12 @@ O objetivo é revisar a função da peça, não identificar autoria pelo visual.
 
 **Ordem de ação:** corrigir primeiro informação falsa, ativo sem direito, fluxo quebrado ou arquivo inutilizável. Depois tratar clareza e acabamento. Preferência estética entra por último, salvo se já for requisito do briefing.
 
+## Roteiro de QA em três passagens
+
+1. **Antes de produzir:** confirme o objetivo, quem vai ver, canal e formato; marque marca, números e textos obrigatórios como itens que não podem ser reinterpretados. Rotule referências, simulações e imagens documentais de forma distinta.
+2. **Na revisão:** abra a peça em tamanho real e reduzido; observe nomes, números, escala, recorte e continuidade. Confira se a animação deixa tempo de leitura e se a interface funciona nos estados reais, não só no print. Compare alternativas do mesmo briefing para não misturar mudanças de objetivo com gosto.
+3. **Antes de chamar de final:** abra o export e o master, confira dependências, autorizações e o que ainda está pendente. Registre quais testes foram feitos, não só o resultado esperado. Não transforme fluência, estética ou aprovação interna em prova de resultado.
+
+Para obter feedback sem induzir a pessoa, pergunte primeiro o que ela entendeu, onde hesitou e o que esperava encontrar. Depois, se fizer sentido, pergunte sobre a impressão de autoria. Opinião estética, defeito real e desempenho precisam de registros separados.
+
 [Início](../README.md) · [Estudos aplicados](../guias/ESTUDOS-APLICADOS.md)

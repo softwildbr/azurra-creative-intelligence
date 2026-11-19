@@ -32,4 +32,15 @@ Defina resultados e divisão esperada antes de começar. Uma diferença entre a 
 
 **Leitura:** [Fabijan e colaboradores: divergência na distribuição de grupos em experimentos](https://www.microsoft.com/en-us/research/publication/diagnosing-sample-ratio-mismatch-in-online-controlled-experiments-a-taxonomy-and-rules-of-thumb-for-practitioners/). A aplicação a testes criativos é proposta metodológica, não resultado desta base.
 
+## Transformar leitura em decisão de produção
+
+| Tema | Teste de baixo custo | Evidência a guardar |
+|---|---|---|
+| Narrativa | Faça a leitura sem contexto: a pessoa consegue contar o que mudou e por quê? | O que ela reconstruiu por conta própria e o que exigiu explicação. Preserve a diferença entre fato e interpretação. |
+| Carga cognitiva | Peça que a pessoa conclua a tarefa principal e corrija um erro comum. | Hesitações, passos refeitos, informações que procurou e o que a ajudou a retomar. |
+| Sequência sonora | Compare continuidade e contraste em duas passagens completas, com a mesma locução. | Onde a mensagem ficou mais fácil de recuperar, não apenas qual faixa agradou. Verifique direitos antes de usar material na peça. |
+| Testes criativos | Confira a proporção de exposição e o registro do evento antes de ler a métrica de sucesso. | Hipótese, unidade analisada, janela, condições e limitações. Interrompa a conclusão se os grupos não forem comparáveis. |
+
+Os exercícios são propostas, não resultados da agência. Registre hipótese, intervenção e resultado separadamente. Não converta achados de outros contextos em promessas de atenção, vendas ou conversão.
+
 [Início](../README.md) · [Revisão](../modelos/REVISAO.md)
