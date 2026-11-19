@@ -1,6 +1,6 @@
 # Azurra · Creative Intelligence for Agents
 
-Base de produção criativa para pessoas e agentes de IA. Reúne guias práticos de direção de arte, motion, edição, áudio e revisão. O objetivo é entregar uma peça clara, fiel ao briefing e fácil de revisar — não apenas gerar uma boa prévia.
+Uma base para você treinar seus agentes de IA em produção criativa. Reúne guias práticos de direção de arte, motion, edição, áudio e revisão. O objetivo é entregar uma peça clara, fiel ao briefing e fácil de revisar — não apenas gerar uma boa prévia.
 
 ## Por onde começar
 
