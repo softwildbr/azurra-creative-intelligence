@@ -40,6 +40,14 @@ Escolha o módulo pela tarefa que quer ensinar ao agente. Entregue o guia junto 
 
 Use o [guia de memória de produção](guias/MEMORIA-DE-PRODUCAO.md) para separar o que aconteceu, o que foi decidido e onde a equipe pode conferir a fonte. A decisão deve continuar compreensível mesmo que o link de referência deixe de abrir.
 
+## Formação avançada para agentes
+
+A biblioteca [**Metodologias para Agentes**](metodologias/README.md) amplia os guias introdutórios com **17 protocolos operacionais**: pesquisa e rastreabilidade; síntese de estudos; branding e storytelling; UX; cinematografia; animação; vídeo por frames; spotting e sound design; fluxo de áudio; direção vocal; growth; pesquisa de produto; referências culturais; direitos; QA; governança e cruzamento de pesquisas.
+
+Os protocolos descrevem **quando usar, entradas, passos, evidências, gates, testes, limites e handoff**. O arquivo [AGENTS.md](AGENTS.md) orienta a leitura por IA. Há [modelos de pesquisa](modelos/FICHA-PESQUISA-OPERACIONAL.md), [produção audiovisual](modelos/FICHA-AUDIOVISUAL-E-SPOTTING.md), [handoff](modelos/HANDOFF-AGENTE-VERIFICAVEL.md) e [exercícios fictícios](exemplos/TREINOS-METODOLOGICOS.md).
+
+**Política:** este acervo contém somente princípios e materiais autorais generalizados; não redistribui dossiês privados, mídias ou dados de clientes. Métodos documentados não são sinônimos de testes reais ou de resultados comprovados.
+
 ## Colabore
 
 Em [CONTRIBUTING.md](CONTRIBUTING.md), veja como abrir uma discussão sobre um problema, propor uma melhoria ou enviar uma revisão. Não inclua arquivos ou informações de cliente, mesmo para ilustrar uma sugestão.
