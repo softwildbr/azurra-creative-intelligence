@@ -20,4 +20,16 @@ Uma peça humana pode parecer sintética, e uma peça gerada pode estar correta.
 
 **Leitura:** [Microsoft Research: identificação de imagens geradas por IA em um experimento](https://www.microsoft.com/en-us/research/publication/how-good-are-humans-at-detecting-ai-generated-images-learnings-from-an-experiment/). O desempenho depende do conjunto avaliado e não permite classificar a autoria de uma peça individual.
 
+## Som: avaliar a passagem dentro da sequência
+
+Para escolher entre duas trilhas, compare a passagem inteira na montagem. Uma transição pode reforçar continuidade, introduzir contraste ou atrapalhar a fala. Ouça com uma tarefa clara (por exemplo, recuperar a informação da locução), não só procurando a faixa mais agradável.
+
+**Leitura:** [Spotify Research: preferências musicais em sequência](https://research.atspotify.com/publications/exploiting-sequential-music-preferences-via-optimisation-based-sequencing). O estudo trata de playlists; não demonstra efeito de trilha em campanhas.
+
+## Testes: checar a integridade antes de interpretar
+
+Defina resultados e divisão esperada antes de começar. Uma diferença entre a exposição planejada e a observada pode indicar problema de coleta ou de atribuição. Não ignore a divergência e não confunda um teste inconclusivo com evidência de empate.
+
+**Leitura:** [Fabijan e colaboradores: divergência na distribuição de grupos em experimentos](https://www.microsoft.com/en-us/research/publication/diagnosing-sample-ratio-mismatch-in-online-controlled-experiments-a-taxonomy-and-rules-of-thumb-for-practitioners/). A aplicação a testes criativos é proposta metodológica, não resultado desta base.
+
 [Início](../README.md) · [Revisão](../modelos/REVISAO.md)
