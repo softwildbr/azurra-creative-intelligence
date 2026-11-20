@@ -1,5 +1,7 @@
 # Azurra · Creative Intelligence for Agents
 
+**Fase 2 (20/11/2026):** [19 — auditoria de consistência de ofertas e jornada de conversão](metodologias/19-AUDITORIA-DE-CONSISTENCIA-DE-OFERTAS.md). Método de agentes para identificar divergências de conteúdo antes de opinar sobre layout; exemplos fictícios e sem dados de clientes.
+
 **Nova metodologia aplicável a agentes de UX e marketing (20/11/2026):** [18 — Auditoria UX/UI e CRO de landing pages automotivas](metodologias/18-UX-CRO-AUTOMOTIVO.md). Versão generalizada e publicável, sem dados de clientes e sem resultados de teste alegados.
 
 Uma base para você treinar seus agentes de IA em estratégia, pesquisa, growth, criação e atendimento.
