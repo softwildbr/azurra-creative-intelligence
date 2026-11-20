@@ -1,5 +1,7 @@
 # Azurra · Creative Intelligence for Agents
 
+**Fase 2 (20/11/2026):** [19 — auditoria de consistência de ofertas e jornada de conversão](metodologias/19-AUDITORIA-DE-CONSISTENCIA-DE-OFERTAS.md). Método de agentes para identificar divergências de conteúdo antes de opinar sobre layout; exemplos fictícios e sem dados de clientes.
+
 **Nova metodologia aplicável a agentes de UX e marketing (20/11/2026):** [18 — Auditoria UX/UI e CRO de landing pages automotivas](metodologias/18-UX-CRO-AUTOMOTIVO.md). Versão generalizada e publicável, sem dados de clientes e sem resultados de teste alegados.
 
 Uma base para você treinar seus agentes de IA em estratégia, pesquisa, growth, criação e atendimento.
@@ -44,7 +46,7 @@ Use o [guia de memória de produção](guias/MEMORIA-DE-PRODUCAO.md) para separa
 
 ## Formação avançada para agentes
 
-A biblioteca [**Metodologias para Agentes**](metodologias/README.md) amplia os guias introdutórios com **17 protocolos operacionais**: pesquisa e rastreabilidade; síntese de estudos; branding e storytelling; UX; cinematografia; animação; vídeo por frames; spotting e sound design; fluxo de áudio; direção vocal; growth; pesquisa de produto; referências culturais; direitos; QA; governança e cruzamento de pesquisas.
+A biblioteca [**Metodologias para Agentes**](metodologias/README.md) amplia os guias introdutórios com **19 protocolos operacionais**: pesquisa e rastreabilidade; síntese de estudos; branding e storytelling; UX; CRO e auditoria de consistência de ofertas; cinematografia; animação; vídeo por frames; spotting e sound design; fluxo de áudio; direção vocal; growth; pesquisa de produto; referências culturais; direitos; QA; governança e cruzamento de pesquisas.
 
 Os protocolos descrevem **quando usar, entradas, passos, evidências, gates, testes, limites e handoff**. O arquivo [AGENTS.md](AGENTS.md) orienta a leitura por IA. Há [modelos de pesquisa](modelos/FICHA-PESQUISA-OPERACIONAL.md), [produção audiovisual](modelos/FICHA-AUDIOVISUAL-E-SPOTTING.md), [handoff](modelos/HANDOFF-AGENTE-VERIFICAVEL.md) e [exercícios fictícios](exemplos/TREINOS-METODOLOGICOS.md).
 
