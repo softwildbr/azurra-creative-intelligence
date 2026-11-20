@@ -1,5 +1,7 @@
 # Azurra · Creative Intelligence for Agents
 
+**Nova metodologia aplicável a agentes de UX e marketing (20/11/2026):** [18 — Auditoria UX/UI e CRO de landing pages automotivas](metodologias/18-UX-CRO-AUTOMOTIVO.md). Versão generalizada e publicável, sem dados de clientes e sem resultados de teste alegados.
+
 Uma base para você treinar seus agentes de IA em estratégia, pesquisa, growth, criação e atendimento.
 
 Aqui você encontra guias e exemplos para orientar seus agentes a entender briefings, planejar testes, produzir e revisar peças, se comunicar com o atendimento e transformar pedidos de alteração em próximos passos claros. O acervo já cobre direção de arte, motion, edição, áudio, revisão, comunicação e avaliação de testes criativos.
