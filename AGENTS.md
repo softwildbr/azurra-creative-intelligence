@@ -1,5 +1,7 @@
 # Regras para agentes — Azurra Creative Intelligence
 
+Para campanhas com preço, produto, versão, tabela, condições e múltiplos canais de lead, consultar [metodologia 19 de auditoria de consistência](metodologias/19-AUDITORIA-DE-CONSISTENCIA-DE-OFERTAS.md) antes de propor mudanças visuais. Não escolher dado comercial por suposição nem tratar texto público extraído como UI funcional testada. Exemplos são fictícios e livres de material interno.
+
 Para páginas de ofertas de veículos, concessionárias, formulários e WhatsApp, consulte [metodologia 18 — UX/UI e CRO automotivo](metodologias/18-UX-CRO-AUTOMOTIVO.md). Conteúdo público generalizado; não trazer para cá dados, contratos, links privados, imagens ou mensuração de clientes. Documentação não equivale a auditoria de uma LP real.
 
 Este repositório contém metodologias públicas e exemplos fictícios para apoiar pesquisa, estratégia e produção criativa. **Não é um repositório de projetos de clientes, de credenciais ou de resultados certificados.**
