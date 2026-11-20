@@ -9,6 +9,7 @@
 | Cruzar estudos e produzir novos insights | [17 — cruzamento de conhecimento](17-CRUZAMENTO-DE-ESTUDOS.md) | [01](01-PESQUISA-E-RASTREABILIDADE.md) |
 | Criar marca, narrativa, peça de campanha | [03 — branding e arte](03-BRANDING-NARRATIVA-E-ARTE.md) | [15 — QA](15-QA-E-COBERTURA.md) |
 | Projetar tela ou sistema de interface | [04 — UX e design system](04-UX-E-DESIGN-SYSTEM.md) | [15](15-QA-E-COBERTURA.md) |
+| Revisar landing page, campanha de veículos ou jornada de lead automotivo | [18 — UX/UI e CRO automotivo](18-UX-CRO-AUTOMOTIVO.md) | [04](04-UX-E-DESIGN-SYSTEM.md) e [15](15-QA-E-COBERTURA.md) |
 | Definir planos, cortes, movimento de câmera | [05 — cinematografia e edição](05-CINEMATOGRAFIA-E-EDICAO.md) | [06 — animação](06-ANIMACAO-E-LOOPS.md) |
 | Animar layers, curvas, loop/cinemagraph | [06 — animação e loops](06-ANIMACAO-E-LOOPS.md) | [05](05-CINEMATOGRAFIA-E-EDICAO.md) |
 | Gerar vídeo com frames inicial/final | [07 — vídeo por frames](07-VIDEO-POR-FRAMES.md) | [05](05-CINEMATOGRAFIA-E-EDICAO.md) |
