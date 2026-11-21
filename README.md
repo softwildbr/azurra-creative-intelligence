@@ -1,9 +1,5 @@
 # Azurra · Creative Intelligence for Agents
 
-**Fase 2 (20/11/2026):** [19 — auditoria de consistência de ofertas e jornada de conversão](metodologias/19-AUDITORIA-DE-CONSISTENCIA-DE-OFERTAS.md). Método de agentes para identificar divergências de conteúdo antes de opinar sobre layout; exemplos fictícios e sem dados de clientes.
-
-**Nova metodologia aplicável a agentes de UX e marketing (20/11/2026):** [18 — Auditoria UX/UI e CRO de landing pages automotivas](metodologias/18-UX-CRO-AUTOMOTIVO.md). Versão generalizada e publicável, sem dados de clientes e sem resultados de teste alegados.
-
 Uma base para você treinar seus agentes de IA em estratégia, pesquisa, growth, criação e atendimento.
 
 Aqui você encontra guias e exemplos para orientar seus agentes a entender briefings, planejar testes, produzir e revisar peças, se comunicar com o atendimento e transformar pedidos de alteração em próximos passos claros. O acervo já cobre direção de arte, motion, edição, áudio, revisão, comunicação e avaliação de testes criativos.
@@ -16,6 +12,16 @@ Aqui você encontra guias e exemplos para orientar seus agentes a entender brief
 4. **No fechamento:** use a [ficha de entrega](modelos/ENTREGA.md) para conferir o export, guardar as fontes editáveis e registrar o que foi enviado.
 
 O briefing vigente, a identidade oficial e a especificação do canal prevalecem sobre qualquer exemplo. Os casos desta edição são fictícios. Os métodos vêm de aprendizados de produção e referências públicas; não são garantias de conversão ou formas de detectar autoria por IA.
+
+## Atualização de 20/11/2026
+
+| Tarefa | Protocolo |
+|---|---|
+| Definir um agente e avaliar seu desempenho | [Especificação](metodologias/20-ESPECIFICACAO-DE-AGENTES.md) · [Avaliação, modelos e tokens](metodologias/21-AVALIACAO-E-CUSTO-DE-AGENTES.md) · [Ficha de piloto](modelos/FICHA-DE-AGENTE-E-PILOTO.md) |
+| Dirigir ou revisar movimento humano | [Animação de personagens](metodologias/22-ANIMACAO-DE-PERSONAGENS.md) |
+| Auditar uma página de oferta e testar seus canais de contato | [UX/CRO automotivo](metodologias/18-UX-CRO-AUTOMOTIVO.md) · [Consistência de ofertas](metodologias/19-AUDITORIA-DE-CONSISTENCIA-DE-OFERTAS.md) · [Formulários, WhatsApp e CRM](metodologias/23-TESTE-DE-JORNADAS-DE-LEAD.md) |
+| Criar interfaces para cenas ou histórias interativas | [Interfaces ficcionais e narrativas ramificadas](metodologias/24-INTERFACES-FICCIONAIS-E-NARRATIVAS-RAMIFICADAS.md) |
+| Compor objetos e personagens em um cenário | [Escala, perspectiva e contato](metodologias/25-ESCALA-E-PERSPECTIVA-EM-COMPOSICAO.md) |
 
 ## Módulos de treinamento
 
@@ -46,7 +52,7 @@ Use o [guia de memória de produção](guias/MEMORIA-DE-PRODUCAO.md) para separa
 
 ## Formação avançada para agentes
 
-A biblioteca [**Metodologias para Agentes**](metodologias/README.md) amplia os guias introdutórios com **19 protocolos operacionais**: pesquisa e rastreabilidade; síntese de estudos; branding e storytelling; UX; CRO e auditoria de consistência de ofertas; cinematografia; animação; vídeo por frames; spotting e sound design; fluxo de áudio; direção vocal; growth; pesquisa de produto; referências culturais; direitos; QA; governança e cruzamento de pesquisas.
+A biblioteca [**Metodologias para Agentes**](metodologias/README.md) amplia os guias introdutórios com **25 protocolos operacionais**: pesquisa e rastreabilidade; síntese de estudos; branding e storytelling; UX; CRO e auditoria de consistência de ofertas; cinematografia; animação; vídeo por frames; spotting e sound design; fluxo de áudio; direção vocal; growth; pesquisa de produto; referências culturais; direitos; QA; governança, cruzamento de pesquisas e engenharia de agentes.
 
 Os protocolos descrevem **quando usar, entradas, passos, evidências, gates, testes, limites e handoff**. O arquivo [AGENTS.md](AGENTS.md) orienta a leitura por IA. Há [modelos de pesquisa](modelos/FICHA-PESQUISA-OPERACIONAL.md), [produção audiovisual](modelos/FICHA-AUDIOVISUAL-E-SPOTTING.md), [handoff](modelos/HANDOFF-AGENTE-VERIFICAVEL.md) e [exercícios fictícios](exemplos/TREINOS-METODOLOGICOS.md).
 

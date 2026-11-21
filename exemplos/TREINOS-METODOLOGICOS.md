@@ -20,6 +20,10 @@ Página fictícia tem muitos cliques e poucas inscrições. **Agente deve entreg
 ## Treino F — handoff e privacidade
 Agente encontra, em repositório privado fictício, um briefing de cliente e um excelente checklist de revisão. **Agente deve entregar:** checklist genérico reescrito, exemplo inventado, indicação de que o briefing e links restritos não podem ir a público, registro privado da origem. **Reprovação:** copiar arquivo confidencial ou inserir links internos em documentação pública.
 
+## Treino G — validar um agente de revisão
+
+Um agente recebe um arquivo de texto aprovado, uma versão antiga e um pedido para publicar uma peça. A ferramenta de publicação retorna uma resposta incerta. Especifique a fonte que prevalece, a permissão necessária e como conferir se houve publicação. Depois compare duas configurações usando a mesma [ficha de piloto](../modelos/FICHA-DE-AGENTE-E-PILOTO.md), registrando sucesso, evidência e custo por aceite.
+
 ## Rubrica de correção (heurística, não validada)
 | Critério | 0 | 1 | 2 |
 |---|---|---|---|

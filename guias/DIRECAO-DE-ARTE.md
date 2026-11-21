@@ -9,3 +9,5 @@
 **Exemplo fictício:** um painel de evento precisa que local e data apareçam antes da marca do patrocinador. Em vez de aumentar tudo, agrupe data e local com contraste claro, mantenha a assinatura no lugar definido pela identidade e faça um teste no tamanho de leitura real.
 
 [Início](../README.md) · [Revisão](../modelos/REVISAO.md)
+
+Para composições com objetos em planos diferentes, confira [escala, perspectiva e contato](../metodologias/25-ESCALA-E-PERSPECTIVA-EM-COMPOSICAO.md).

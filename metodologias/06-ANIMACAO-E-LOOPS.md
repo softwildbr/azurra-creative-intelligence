@@ -34,3 +34,5 @@
 Ilustração de janela de biblioteca: só a cortina oscila. Estático = parede, placa, texto e janela. ROI = tecido; pivô superior. Opção A: Puppet Pin discreto; B: deformação de shape. Aprovada a direção, criar 1 ciclo, testar bordas de máscara e emenda temporal; se não houver AE/arquivo, entregar apenas plano e não afirmar render.
 
 [Filmagem e edição](05-CINEMATOGRAFIA-E-EDICAO.md) · [QA](15-QA-E-COBERTURA.md).
+
+Para atuação humana, marcha, contato e fala, use [animação de personagens](22-ANIMACAO-DE-PERSONAGENS.md).

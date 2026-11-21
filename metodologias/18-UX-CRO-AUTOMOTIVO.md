@@ -74,3 +74,5 @@ Uma oferta destaca “Entrada de R$ 40.000”, mas a peça hipotética omite o p
 
 ## Limites de aplicação
 A fonte externa pode mudar. Uma LP real não foi inspecionada, um formulário não foi enviado, uma campanha não foi alterada e nenhum A/B ou medição foi conduzido ao produzir este documento. O responsável deve usar briefing atual, autorização adequada e fontes normativas vigentes antes de implementar.
+
+Para comprovar o caminho entre acionamento, formulário, WhatsApp e CRM, siga o [protocolo de teste de jornadas de lead](23-TESTE-DE-JORNADAS-DE-LEAD.md).

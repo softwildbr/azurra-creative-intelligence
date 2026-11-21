@@ -25,3 +25,5 @@ ID | problema resolvido | contexto | evidência observada | explicação candida
 **Exemplo fictício:** uma história usa uma tela de autorização que muda após a personagem escolher entre dois caminhos. Extrair apenas princípio de consequência visual; desenhar interface original, texto original e personagens novos. Não recriar a tela de uma obra famosa.
 
 [Estudos cruzados](17-CRUZAMENTO-DE-ESTUDOS.md) · [Direitos](14-DIREITOS-E-PUBLICACAO.md).
+
+Para colocar uma tela dentro de uma cena ou testar percursos com escolhas, use [interfaces ficcionais e narrativas ramificadas](24-INTERFACES-FICCIONAIS-E-NARRATIVAS-RAMIFICADAS.md).

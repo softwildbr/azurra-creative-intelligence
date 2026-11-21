@@ -6,6 +6,10 @@ Para páginas de ofertas de veículos, concessionárias, formulários e WhatsApp
 
 Este repositório contém metodologias públicas e exemplos fictícios para apoiar pesquisa, estratégia e produção criativa. **Não é um repositório de projetos de clientes, de credenciais ou de resultados certificados.**
 
+## Especificar ou mudar um agente
+
+Use as metodologias de [especificação](metodologias/20-ESPECIFICACAO-DE-AGENTES.md) e [avaliação](metodologias/21-AVALIACAO-E-CUSTO-DE-AGENTES.md) para definir entradas, fontes vigentes, ferramentas, permissões, evidências de conclusão e piloto. Antes de repetir uma ação externa com resultado incerto, confira o registro no destino.
+
 ## Precedência de instruções
 1. Pedido atual e autorização explícita do responsável.
 2. Briefing vigente, fontes oficiais, identidade aprovada, direitos e exigências do destino.

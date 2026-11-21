@@ -20,6 +20,13 @@
 7. **Conform:** se mudou picture, registrar antes/depois e revisar cues afetados por corte, mudança temporal ou deslocamento; não assumir que stems continuam sincronizadas.
 8. **Entrega:** exportar e reabrir mix, stems e master; conferir valores conforme norma do destino, canais, ausência de clipping, versão e integridade.
 
+## Conferir o arquivo exportado
+
+- **Voz encoberta** · Ouça a sequência nas passagens com música e efeitos. Isole as camadas para localizar mascaramento e reavalie a fala com a mixagem completa depois do ajuste.
+- **Efeito fora do tempo** · Compare o transiente com o quadro de contato no master de vídeo. Se o corte mudou, revise primeiro a versão e a posição do cue.
+- **Som inconsistente entre planos** · Ouça as emendas em sequência. Revise o nível do ambiente, a perspectiva, as caudas e as transições onde o espaço muda.
+- **Mix e stems** · Reabra os arquivos produzidos e compare versão, início, duração e canais. Onde o contrato pedir recomposição, verifique a soma nas condições descritas no turnover e registre diferenças esperadas decorrentes do processamento do master.
+
 ## Condições de bloqueio
 Sem direitos de música/voz/SFX, impedir publicação. Sem vídeo e áudio reais, entregar apenas planejamento. Sem medidor, não declarar LUFS/dBTP testados. Sem prova de preview, não declarar sync perfeito.
 

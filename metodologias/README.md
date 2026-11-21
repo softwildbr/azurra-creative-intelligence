@@ -23,6 +23,12 @@
 | Revisar cobertura de requisitos e formatos | [15 — QA e cobertura](15-QA-E-COBERTURA.md) | [16 — governança](16-GOVERNANCA-E-HANDOFF.md) |
 | Coordenar agentes, registrar decisões e repassar | [16 — governança e handoff](16-GOVERNANCA-E-HANDOFF.md) | [14 — direitos](14-DIREITOS-E-PUBLICACAO.md) |
 | Preparar publicação pública ou uso de terceiros | [14 — direitos e publicação](14-DIREITOS-E-PUBLICACAO.md) | [16](16-GOVERNANCA-E-HANDOFF.md) |
+| Especificar agente, ferramentas, permissões e retorno | [20 — especificação de agentes](20-ESPECIFICACAO-DE-AGENTES.md) | [16](16-GOVERNANCA-E-HANDOFF.md) |
+| Comparar modelos, testar qualidade ou reduzir tokens | [21 — avaliação e custo de agentes](21-AVALIACAO-E-CUSTO-DE-AGENTES.md) | [20](20-ESPECIFICACAO-DE-AGENTES.md) |
+| Dirigir atuação, marcha, contato ou fala de personagem | [22 — animação de personagens](22-ANIMACAO-DE-PERSONAGENS.md) | [06](06-ANIMACAO-E-LOOPS.md) |
+| Testar formulário, WhatsApp e registro de lead | [23 — jornadas de lead](23-TESTE-DE-JORNADAS-DE-LEAD.md) | [18](18-UX-CRO-AUTOMOTIVO.md) e [19](19-AUDITORIA-DE-CONSISTENCIA-DE-OFERTAS.md) |
+| Criar tela ficcional ou experiência com escolhas | [24 — interfaces ficcionais e narrativas ramificadas](24-INTERFACES-FICCIONAIS-E-NARRATIVAS-RAMIFICADAS.md) | [13](13-CULTURA-E-REFERENCIAS.md) |
+| Compor imagens e manter escala, perspectiva e contato | [25 — escala e perspectiva em composição](25-ESCALA-E-PERSPECTIVA-EM-COMPOSICAO.md) | [15](15-QA-E-COBERTURA.md) |
 
 ## Execução mínima
 1. Identificar **decisão a tomar** e **fonte autorizada**.
@@ -32,7 +38,7 @@
 5. Revisar qualidade, fidelidade, licenças e autorização; entregar resultado mais handoff.
 
 ## Modelos para copiar e preencher
-[Ficha de pesquisa](../modelos/FICHA-PESQUISA-OPERACIONAL.md) · [Ficha audiovisual](../modelos/FICHA-AUDIOVISUAL-E-SPOTTING.md) · [Handoff verificável](../modelos/HANDOFF-AGENTE-VERIFICAVEL.md) · [Exercícios fictícios](../exemplos/TREINOS-METODOLOGICOS.md).
+[Ficha de pesquisa](../modelos/FICHA-PESQUISA-OPERACIONAL.md) · [Ficha audiovisual](../modelos/FICHA-AUDIOVISUAL-E-SPOTTING.md) · [Handoff verificável](../modelos/HANDOFF-AGENTE-VERIFICAVEL.md) · [Ficha de agente e piloto](../modelos/FICHA-DE-AGENTE-E-PILOTO.md) · [Exercícios fictícios](../exemplos/TREINOS-METODOLOGICOS.md).
 
 ## Regra de transferência
 Este acervo reaproveita **conceitos e procedimentos generalizáveis**. Não replica arquivos de projetos, dossiês de clientes, estudos proprietários, métricas internas, arte, código, bancos de áudio ou ativos de terceiros. Fontes externas devem ser consultadas na versão vigente. Evite prometer resultado a partir de uma metodologia documental.
