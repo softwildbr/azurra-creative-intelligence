@@ -1,5 +1,7 @@
 # Azurra · Creative Intelligence for Agents
 
+**Novo guia para treinamento de agentes (proposta, 19/11/2026):** [método integrado do briefing à entrega, com QA e evidências](guias/METODO-INTEGRADO-DO-BRIEFING-A-ENTREGA.md). Exercícios fictícios e conteúdo público, sem dados de clientes.
+
 Uma base para você treinar seus agentes de IA em estratégia, pesquisa, growth, criação e atendimento.
 
 Aqui você encontra guias e exemplos para orientar seus agentes a entender briefings, planejar testes, produzir e revisar peças, se comunicar com o atendimento e transformar pedidos de alteração em próximos passos claros. O acervo já cobre direção de arte, motion, edição, áudio, revisão, comunicação e avaliação de testes criativos.
